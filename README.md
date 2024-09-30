@@ -1,0 +1,1 @@
+This is a project that I'm doing for the finale of The Odin Project's HTML course. It's mostly been going over things that I already know, but I'm using it to get experience with the Linux side of things.
